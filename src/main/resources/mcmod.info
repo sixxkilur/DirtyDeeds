@@ -1,0 +1,15 @@
+[
+{
+  "modid": "DirtyD",
+  
+  "mcversion": "1.7.4",
+  
+  "updateUrl": "http://www.bulletlabs.org/MCD/Mods/DirtyDeeds.zip",
+ 
+  "parent": "",
+  "screenshots": [ "Intro.PNG", "bow.PNG", "Dsword.PNG" ],
+  "dependencies": [
+     "mod_MinecraftForge"
+  ]
+}
+]
