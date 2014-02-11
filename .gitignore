@@ -241,10 +241,17 @@ pip-log.txt
 #!/src/common/dries007/
 #!/src/common/mcmod.info
 #!/src/common/SP.png
+!README.txt
 
 !/src/*
-*.txt
+#*.txt
 *.bat
 *.sh
 *.gradle
 gradlew
+
+CREDITS-fml.txt
+forge-1.7.2-10.12.0.1024-changelog.txt
+LICENSE-fml.txt
+MinecraftForge-Credits.txt
+MinecraftForge-License.txt
